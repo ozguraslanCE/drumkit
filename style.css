@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:#b1cbbb;
+}
+h1{ 
+    color: #4040a1;
+    font-size: 3rem;
+    padding: 8rem;
+}
+button{
+    height: 10rem;
+    width: 10rem;
+}
+.btn{
+   color:  #f4e1d2;
+   font-size: 2rem;
+}
+.btn:hover{
+    color: #deeaee;
+}
+p{
+    color: #AAAAAA;
+    padding-top: 10rem;
+}
+.A{
+    background-image: url('images/tom1.png');
+    background-color: #ffff;
+}
+.S{
+    background-image: url('images/tom2.png');
+    background-color: #ffff;
+}
+.D{
+    background-image: url('images/tom3.png');
+}
+.F{
+    background-image: url('images/tom4.png');
+}
+.G{
+    background-image: url('images/crash.png');
+}
+.H{
+    background-image: url('images/snare.png');
+}
+.J{
+    background-image: url('images/kick.png');
+}
